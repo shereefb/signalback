@@ -1,2 +1,3 @@
 
 Add relationships to models
+Push to heroku and create sample data there
